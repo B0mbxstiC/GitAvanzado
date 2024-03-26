@@ -57,3 +57,10 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+
+img{
+  object-fit: cover;
+  background-color: white;
+  height: 100px;
+  margin-bottom: 3em;
+}
