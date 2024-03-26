@@ -62,5 +62,18 @@ img{
   object-fit: cover;
   background-color: white;
   height: 100px;
-  margin-bottom: 3em;
+  margin-bottom: 1em;
+}
+
+#imgsunset{
+  background-color: black;
+  max-width: 1000px;
+  object-fit: contain;
+  height: 170px;
+  margin-top: 10px;
+}
+
+footer { 
+  color: white;
+  text-align: center;
 }
